@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="511" started-at="2018-11-02T07:40:25Z" finished-at="2018-11-02T07:40:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="511" started-at="2018-11-02T07:40:25Z" finished-at="2018-11-02T07:40:26Z">
+      <class name="testing_package.ExtentTrport_Test4">
+        <test-method status="PASS" signature="test_report()[pri:0, instance:testing_package.ExtentTrport_Test4@77caeb3e]" name="test_report" duration-ms="482" started-at="2018-11-02T07:40:25Z" finished-at="2018-11-02T07:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_report -->
+      </class> <!-- testing_package.ExtentTrport_Test4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

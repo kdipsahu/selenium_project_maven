@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [qaauotomation_excalibur]">
+  <test thread-count="5" name="testngTest(failed)">
+    <classes>
+      <class name="org.com.ExcAuomationProject.org.com.ExcAuomationProject.DemoTest">
+        <methods>
+          <include name="driver_read"/>
+        </methods>
+      </class> <!-- org.com.ExcAuomationProject.org.com.ExcAuomationProject.DemoTest -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [qaauotomation_excalibur] -->
